@@ -2,7 +2,7 @@
 
 A self-tracking app that lets you log your daily performance scores and visualize them as a line chart.
 
-## 🔍 Overview
+##  Overview
 
 - Record your daily score (0–100)
 - Date is automatically recorded
@@ -10,13 +10,13 @@ A self-tracking app that lets you log your daily performance scores and visualiz
 - Fully local: data is saved in the browser
 - Export your data as a JSON file
 
-## 🛠 Technologies
+##  Technologies
 
 - React + TypeScript + Vite
 - Tailwind CSS
 - Recharts (for chart rendering)
 
-## 🚀 Setup
+##  Setup
 
 1. Clone the repository:
 
@@ -39,7 +39,7 @@ A self-tracking app that lets you log your daily performance scores and visualiz
 
     Then open `http://localhost:5173` in your browser.
 
-## 📦 Build (optional)
+##  Build (optional)
 
 To generate a production build:
 
